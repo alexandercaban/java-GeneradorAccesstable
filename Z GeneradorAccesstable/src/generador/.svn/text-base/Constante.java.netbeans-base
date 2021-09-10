@@ -1,0 +1,40 @@
+package generador;
+public class Constante{
+    public static String directorio = "/generador/java/";
+
+    //Nombre del proyecto, para generar el package
+    public static String nombreProyecto = "gases";
+    
+    // Directorio de los aacesstable generados para QT
+    public static String directorioLibreria = "/generador/AccessTable/";
+    public static String directorioHeaders = "/generador/AccessTable/headers/";
+	public static String directorioSources = "/generador/AccessTable/sources/";
+	
+	public static String directorioHeadersLibrerias = "/generador/playtech/";
+
+	// Directorio de Lista de objetos accesstable que
+	public static String directorioListaHeaders = "/generador/ListaObjetos/headers/";
+	public static String directorioListaSources = "/generador/ListaObjetos/sources/";
+
+	// Directorio de Formas generadas a partir de las tablas del esquema de base de datos
+	public static String directorioUI = "/generador/aplicacion/modulos/forms/";
+
+	public static String directorioProyecto = new String ("/generador/aplicacion/");
+
+	// Directorio de las clases que se derivan de las formas
+	public static String directorioSourcesHjos = "/generador/aplicacion/modulos/sources/";
+	public static String directorioHeadersHjos = "/generador/aplicacion/modulos/headers/";
+	
+	//	Directorio para la generacion de los AT de Php
+	public static String DIRECTORIO_ARCHIVOS_PHP = new String("/generador/Php/");
+	
+	public static String ArchivoReferencia = "/generador/";
+	
+    public static String conexion = "jdbc:postgresql://192.168.0.1:5432/gases";
+    public static String usuario = "postgres";
+    
+    public static String finLinea = new String ("\n");
+    public static String buddy = new String ("&amp;"); 
+    public static String Comilla = new String ( "\"" );
+    public static String SLASH = new String (" \\  ");
+}

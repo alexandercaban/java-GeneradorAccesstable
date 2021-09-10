@@ -1,0 +1,54 @@
+8
+
+dir
+4
+svn://192.168.0.1:1979/Java/Generador/jars
+svn://192.168.0.1:1979/Java/Generador
+
+
+
+2008-03-13T10:34:43.553768Z
+2
+jabadia
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a63a909d-f628-0410-9ebd-bf88e9140fd7
+
+pg74.1jdbc2.jar
+file
+
+
+
+
+2008-10-23T15:11:34.062500Z
+0fe8f53bcb304a9bc5c16f2210e00ec0
+2007-02-08T13:02:09.456464Z
+1
+dfpaz
+has-props
+
+postgresql-8.3-603.jdbc3.jar
+file
+
+
+
+
+2008-10-23T15:11:34.078125Z
+ee5d43f0fc27a90341c58af49c31fe51
+2008-03-13T10:34:43.553768Z
+2
+jabadia
+has-props
+

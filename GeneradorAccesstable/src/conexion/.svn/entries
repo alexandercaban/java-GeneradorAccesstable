@@ -1,0 +1,52 @@
+8
+
+dir
+4
+svn://192.168.0.1:1979/Java/Generador/Conexion
+svn://192.168.0.1:1979/Java/Generador
+
+
+
+2008-03-26T17:05:18.735076Z
+4
+amondragon
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a63a909d-f628-0410-9ebd-bf88e9140fd7
+
+CreaAccessTableConexion.java
+file
+
+
+
+
+2008-10-23T15:11:18.421875Z
+d1b6a3bb67fca26bb8d504eb3f744a36
+2008-03-26T17:05:18.735076Z
+4
+amondragon
+
+AccessTable.java
+file
+
+
+
+
+2008-10-23T15:11:18.421875Z
+5547d097f58dbefbd1cbcf8265eb8bdd
+2008-03-26T17:05:18.735076Z
+4
+amondragon
+
